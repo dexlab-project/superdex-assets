@@ -63,6 +63,14 @@
       "icon": "https://assets.xpla.io/icon/ELXella.png",
       "homepage": "https://dear-ella.c2x.world",
       "marketplace": []
+    },
+    "xpla13fqh663tuhdehfp7n6fpp0s4dd0drmy3cdt6slukh2jc9daqxskqx598ld": {
+      "contract": "xpla13fqh663tuhdehfp7n6fpp0s4dd0drmy3cdt6slukh2jc9daqxskqx598ld",
+      "name": "Clone from CST NFT",
+      "symbol": "CSTchromaticClone",
+      "icon": "https://assets.xpla.io/icon/CSTchromatic.png",
+      "homepage": "https://chromaticsouls.c2x.world",
+      "marketplace": []
     }
   }
 }
